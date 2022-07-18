@@ -15,6 +15,7 @@
  <div class="container">
   <form action="action_page.php">
   <div>
+    <div style="font-family:Times New Roman;">
     <h1>CONTACTING</h1>
     <h2> VOLOSKYR, SVRYEIDA KURDRADISH</h2>
     <h3> <p>REGARDING, these soaps of which & their pouring rather late the month of May, it's origins being of the Western Siberian Plains post abolition, having graced the halls of the most late TSARESS SHA'HARINA A. DOTYAVICH through the coldest months of these northern climes. In mourning, it's long awaited delivery having been done accompanied through such cold & blustery winds come alongside the folding of 1,000 paper cranes & tired hands. For a great many days the weather would never permit transport across the Pacific Tundras. </p></h3>
@@ -111,15 +112,15 @@
       <option value="Honduras">Honduras</option>
       <option value="Hungary">Hungary</option>
       <option value="Iceland">Iceland</option>
-      <option value="Ecuador">India</option>
-      <option value="Ecuador">Indonesia</option>
-      <option value="Ecuador">Iran</option>
-      <option value="Ecuador">Iraq</option>
-      <option value="Ecuador">Ireland</option>
-      <option value="Ecuador">Israel</option>
-      <option value="Ecuador">Italy</option>
-      <option value="Ecuador">Jamaica</option>
-      <option value="Ecuador">Japan</option>
+      <option value="India">India</option>
+      <option value="Indonesia">Indonesia</option>
+      <option value="Iran">Iran</option>
+      <option value="Iraq">Iraq</option>
+      <option value="Ireland">Ireland</option>
+      <option value="Israel">Israel</option>
+      <option value="Italy">Italy</option>
+      <option value="Jamaica">Jamaica</option>
+      <option value="Japan">Japan</option>
       <option value="Ecuador">Jordan</option>
       <option value="Ecuador">Kazakhstan</option>
       <option value="Ecuador">Kenya</option>
