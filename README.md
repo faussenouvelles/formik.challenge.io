@@ -10,16 +10,17 @@
     />
     <title>React App</title>
   </head>
-  <body>
+  <body >
                                                
  <div class="container">
   <form action="action_page.php">
   <div>
-      <h1>CONTACTING</h1>
+    <h1>CONTACTING</h1>
     <h2> VOLOSKYR, SVRYEIDA KURDRADISH</h2>
-    <h3> <p>REGARDING, these soaps having been brewed which rather late the month of May, it's origins being from the Western Siberian Plains post abolition, having graced the bath halls of late TSARESS SHA'HARINA A. DOTYAVICH through the coldest months of these northern climes. In mourning, it's long awaited delivery accompanied by such cold & blustery winds alongside the folding of 1,000 paper cranes & tired hands. For a great many days the weather would never permit travel across the Pacific Tundras. </p>
+    <h3> <p>REGARDING, these soaps of which & their pouring rather late the month of May, it's origins being of the Western Siberian Plains post abolition, having graced the bath halls of the most late TSARESS SHA'HARINA A. DOTYAVICH through the coldest months of these northern climes. In mourning, it's long awaited delivery having been done accompanied through such cold & blustery winds come alongside the folding of 1,000 paper cranes & tired hands. For a great many days the weather would never permit transport across the Pacific Tundras. </p>
       
-      <p>Should you have been at all " put-off " by the delay in arrival time, please know the professional Bureau of Telekinetic Affairs has been informed. </p></h3>
+      <p>******************************************************************************************<li>
+        Should you have been at all " put-off " by the delay in arrival time, please know the professional Bureau of Telekinetic Affairs has been informed. </p></h3>
      <h6><p>Please be aware that said soap samples in their laboratory preparation have been well freeze dried disregarding departure times. These processes have in no way changed due to International Standards of  Trading. These conditions have in no way changed due to International Standards of Storing.
        </p></h6>
        <h3> Have you been the recipient of these soaps? Have your soaps been lost in the mail? Should you have been lost in reception of the Soaps Of Tsaress SHA'HARINA A DOTYAVICH or perhaps have been recipient of late soaps in their delivery & would like to place a complain to the Human Resources Management, please fill form below: </h3>
@@ -84,17 +85,17 @@
       <option value="Dominica">Dominica</option>
       <option value="Dominican Republic">Dominican Republic</option>
       <option value="Ecuador">Ecuador</option>
-      <option value="Ecuador">Egypt</option>
-      <option value="Ecuador">El Salvador</option>
-      <option value="Ecuador">Equatorial Guinea</option>
-      <option value="Ecuador">Eritrea</option>
-      <option value="Ecuador">Estonia</option>
-      <option value="Ecuador">Eswatini (fmr. "Swaziland")</option>
-      <option value="Ecuador">Ethiopia</option>
-      <option value="Ecuador">Fiji</option>
-      <option value="Ecuador">Finland</option>
-      <option value="Ecuador">France</option>
-      <option value="Ecuador">Gabon</option>
+      <option value="Egypt">Egypt</option>
+      <option value="El Salvador">El Salvador</option>
+      <option value="Equatorial Guinea">Equatorial Guinea</option>
+      <option value="Eritrea">Eritrea</option>
+      <option value="Estonia">Estonia</option>
+      <option value="Eswatini (fmr. "Swaziland")">Eswatini (fmr. "Swaziland")</option>
+      <option value="Ethiopia">Ethiopia</option>
+      <option value="Fiji">Fiji</option>
+      <option value="Finland">Finland</option>
+      <option value="France">France</option>
+      <option value="Gabon">Gabon</option>
       <option value="Ecuador">Gambia</option>
       <option value="Ecuador">Georgia</option>
       <option value="Ecuador">Germany</option>
@@ -231,9 +232,11 @@
                                 
 
     </select>
-
+<br>
+  <br>
+  
     <label for="subject">Subject</label>
-    <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+    <textarea id="subject" name="subject" placeholder="Commentary..." style="height:200px"></textarea>
 
     <input type="submit" value="Submit">
 </div>
