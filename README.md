@@ -23,7 +23,7 @@ const Basic = () => (
   <div class= "justify-content-center">
     <h1>CONTACTING</h1>
     <h2> VOLOSKYR, SVRYEIDA KURDRADISH</h2>
-    <h3> <p>REGARDING, these soaps having been brewed which rather late the month of May, it's origins being from the Western Siberian Plains post abolition, having graced the bath halls of late TSARESS SHA'HARINA A. DOTYAVICH through the coldest months of these northern climes. In mourning, it's long awaited delivery accompanied by such cold & blustery winds alongside the folding of 1,000 paper cranes & tired hands. For a great many days the weather would never permit travel across the Pacific Tundras. </p>
+    <h3> <p>REGARDING, these soaps which pour having been rather late the month of May, it's origins being from the Western Siberian Plains post abolition, having graced the bath halls of late TSARESS SHA'HARINA A. DOTYAVICH through the coldest months of these northern climes. In mourning, it's long awaited delivery accompanied by such cold & blustery winds alongside the folding of 1,000 paper cranes & tired hands. For a great many days the weather would never permit travel across the Pacific Tundras. </p>
       
       <p>Should you have been at all " put-off " by the delay in arrival time, please know the professional Bureau of Telekinetic Affairs has been informed. </p></h3>
      <h6><p>Please be aware that said soap samples in their laboratory preparation have been well freeze dried disregarding departure times. These processes have in no way changed due to International Standards of  Trading. These conditions have in no way changed due to International Standards of Storing.
