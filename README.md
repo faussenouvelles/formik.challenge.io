@@ -20,7 +20,7 @@
     <h3> <p>REGARDING, these soaps of which & their pouring rather late the month of May, it's origins being of the Western Siberian Plains post abolition, having graced the halls of the most late TSARESS SHA'HARINA A. DOTYAVICH through the coldest months of these northern climes. In mourning, it's long awaited delivery having been done accompanied through such cold & blustery winds come alongside the folding of 1,000 paper cranes & tired hands. For a great many days the weather would never permit transport across the Pacific Tundras. </p></h3>
       
       <p>******************************************************************************************
-     <h3 style="text-align-center">Should you have been at all " put-off " by the delay in arrival time, please know the professional Bureau of Telekinetic Affairs has been informed. /h3>
+     <h3 style="text-align:center">Should you have been at all " put-off " by the delay in arrival time, please know the professional Bureau of Telekinetic Affairs has been informed. /h3>
      <h6><p>Please be aware that said soap samples in their laboratory preparation have been well freeze dried disregarding departure times. These processes have in no way changed due to International Standards of  Trading. These conditions have in no way changed due to International Standards of Storing.
        </p></h6>
        <h3> Have you been the recipient of these soaps? Have your soaps been lost in the mail? Should you have been lost in reception of the Soaps Of Tsaress SHA'HARINA A DOTYAVICH or perhaps have been recipient of late soaps in their delivery & would like to place a complain to the Human Resources Management, please fill form below: </h3>
