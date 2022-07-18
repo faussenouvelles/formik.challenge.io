@@ -236,11 +236,11 @@
   <br>
   
     <label for="subject">Subject</label>
-    <textarea id="subject" name="subject" placeholder="Commentary..." style="height:200px"></textarea>
-
+    <textarea id="subject" name="subject" placeholder="Commentary..." style="height:200px width:600px"></textarea>
+<br>
     <input type="submit" value="Submit">
-</div>
   </form>
 </div>
+
 
     
