@@ -18,9 +18,10 @@
     <div style="font-family:Times New Roman;">
     <h1>CONTACTING</h1>
     <h2> VOLOSKYR, SVRYEIDA KURDRADISH</h2>
-    <h3> <p>REGARDING, these soaps of which & their pouring rather late the month of May, it's origins being of the Western Siberian Plains post - Хэллоуин, having graced the halls of the most late TSARESS SHA'HARINA A. DOTYAVICH through the coldest months of these northern climes. In mourning, it's long awaited delivery having been done accompanied through such cold & blustery winds come alongside the folding of 1,000 paper cranes & tired hands. For a great many days the weather would never permit transport across the Pacific Tundras. </p></h3>
+    <h3 class="text-indent: -30px";>REGARDING, these soaps of which & their pouring rather late the month of May, it's origins being of the Western Siberian Plains post - Хэллоуин , having graced the halls of the most late TSARESS SHA'HARINA A. DOTYAVICH through the coldest months of these northern climes. In mourning, it's long awaited delivery having been done accompanied through such cold & blustery winds come alongside the folding of 1,000 paper cranes & tired hands. For a great many days the weather would never permit transport across the Pacific Tundras.</h3>
       
       <h3 style="text-align:center">******************************************************************************************
+        <br>
      Should you have been at all " put-off " by the delay in arrival time, please know the professional Bureau of Telekinetic Affairs has been informed. </h3>
      <h6><p>Please be aware that said soap samples in their laboratory preparation have been well freeze dried disregarding departure times. These processes have in no way changed due to International Standards of  Trading. These conditions have in no way changed due to International Standards of Storing.
        </p></h6>
@@ -121,28 +122,28 @@
       <option value="Italy">Italy</option>
       <option value="Jamaica">Jamaica</option>
       <option value="Japan">Japan</option>
-      <option value="Ecuador">Jordan</option>
-      <option value="Ecuador">Kazakhstan</option>
-      <option value="Ecuador">Kenya</option>
-      <option value="Ecuador">Kiribati</option>
-      <option value="Ecuador">Kuwait</option>
-      <option value="Ecuador">Kyrgyzstan</option>
-      <option value="Ecuador">Laos</option>
-      <option value="Ecuador">Latvia</option>
-      <option value="Ecuador">Lebanon</option>
-      <option value="Ecuador">Lesotho</option>
-      <option value="Ecuador">Liberia</option>
-      <option value="Ecuador">Libya</option>
-      <option value="Ecuador">Liechtenstein</option>
-      <option value="Ecuador">Lithuania</option>
-      <option value="Ecuador">Luxembourg</option>
-      <option value="Ecuador">Madagascar</option>
-      <option value="Ecuador">Malawi</option>
-      <option value="Ecuador">Malaysia</option>
-      <option value="Ecuador">Maldives</option>
-      <option value="Ecuador">Mali</option>
-      <option value="Ecuador">Malta</option>
-      <option value="Ecuador">Marshall Islands</option>
+      <option value="Jordan">Jordan</option>
+      <option value="Kazakhstan">Kazakhstan</option>
+      <option value="Kenya">Kenya</option>
+      <option value="Kiribati">Kiribati</option>
+      <option value="Kuwait">Kuwait</option>
+      <option value="Kyrgyzstan">Kyrgyzstan</option>
+      <option value="Laos">Laos</option>
+      <option value="Latvia">Latvia</option>
+      <option value="Lebanon">Lebanon</option>
+      <option value="Lesotho">Lesotho</option>
+      <option value="Liberia">Liberia</option>
+      <option value="Libya">Libya</option>
+      <option value="Liechtenstein">Liechtenstein</option>
+      <option value="Lithuania">Lithuania</option>
+      <option value="Luxembourg">Luxembourg</option>
+      <option value="Madagascar">Madagascar</option>
+      <option value="Malawi">Malawi</option>
+      <option value="Malaysia">Malaysia</option>
+      <option value="Maldives">Maldives</option>
+      <option value="Mali">Mali</option>
+      <option value="Malta">Malta</option>
+      <option value="Marshall Islands">Marshall Islands</option>
       <option value="Ecuador">Mauritania</option>
       <option value="Ecuador">Mauritius</option>
       <option value="Ecuador">Mexico</option>
@@ -237,10 +238,9 @@
   <br>
   
     <label for="subject">Subject</label>
-    <textarea id="subject" name="subject" placeholder="Commentary..." style="height:200px width:600px"></textarea>
+    <textarea id="subject" name="subject" placeholder="Commentary..." style="height:200px width:1000px"></textarea>
 <br>
     <input type="submit" value="Submit">
-  </form>
 </div>
 
 
