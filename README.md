@@ -18,7 +18,7 @@
     <div style="font-family:Times New Roman;">
     <h1>CONTACTING</h1>
     <h2> VOLOSKYR, SVRYEIDA KURDRADISH</h2>
-    <h3 class="text-indent: -30px";>REGARDING, these soaps of which & their pouring rather late the month of May, it's origins being of the Western Siberian Plains post - Хэллоуин , having graced the halls of the most late TSARESS SHA'HARINA A. DOTYAVICH through the coldest months of these northern climes. In mourning, it's long awaited delivery having been done accompanied through such cold & blustery winds come alongside the folding of 1,000 paper cranes & tired hands. For a great many days the weather would never permit transport across the Pacific Tundras.</h3>
+    <h3 class="text-indent:-30px;">REGARDING, these soaps of which & their pouring rather late the month of May, it's origins being of the Western Siberian Plains post - Хэллоуин , having graced the halls of the most late TSARESS SHA'HARINA A. DOTYAVICH through the coldest months of these northern climes. In mourning, it's long awaited delivery having been done accompanied through such cold & blustery winds come alongside the folding of 1,000 paper cranes & tired hands. For a great many days the weather would never permit transport across the Pacific Tundras.</h3>
       
       <h3 style="text-align:center">******************************************************************************************
         <br>
